@@ -1,0 +1,34 @@
+html{
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+
+
+}
+p{
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 10;
+    font-style: normal;
+
+}
+#first{
+    border: 5px solid white;
+    height: 380px;
+    width: 700px;
+    margin-left: 280px;
+    margin-top: 20px;
+
+
+}
+.resized-image {
+    width: 700px; /* Set the desired width */
+    height: 380px; /* Set the desired height */
+}
